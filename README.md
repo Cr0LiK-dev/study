@@ -4,11 +4,11 @@
 
 ## Структура репозитория
 
-solutions/
--leetcode/
---easy
--hackerrank/
---easy/
---medium/
-README.md
-.gitignore
+solutions/  
+-leetcode/  
+--easy  
+-hackerrank/  
+--easy/  
+--medium/  
+README.md  
+.gitignore  

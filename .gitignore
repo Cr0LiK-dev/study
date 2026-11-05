@@ -1,0 +1,42 @@
+
+# Сборка и артефакты Java
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Локальные конфиги и секреты (НИКОГДА не коммить ключи/пароли)
+.env
+*.key
+*.pem
+secrets.json
+config.local.*
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+logs/
+*.log
+tmp/
+temp/
+
+# Пакеты зависимостей (если будешь использовать Maven/Gradle — они сами всё скачают)
+node_modules/
+vendor/
+
+# Примеры/черновики, которые не нужны в портфолио
+drafts/
+tmp-solution/

@@ -4,10 +4,12 @@
 
 ## Структура репозитория
 
-src/  
+src/
+
 -hackerrank/  
---easy/  
---medium/ 
+--easy/
+--medium/
+
 -coderun/  
 --backtracking/ 
 --bfs/ 
@@ -20,8 +22,11 @@ src/
 --heap/
 --easy/
 --medium/
+
 -pattern/  
+
 -yandexContest/  
 --tests/ 
+
 README.md  
 .gitignore  
